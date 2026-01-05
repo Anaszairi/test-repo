@@ -7,3 +7,10 @@ for ( int i = 1; i <= 5; i++ )
     cout << "Display from test2.cpp: " << i << endl;
 }
 }
+void ikhwan()
+{
+for ( int i = 1; i <= 5; i++ )
+{
+    cout << "buto ikhwan : " << i << endl;
+}
+}

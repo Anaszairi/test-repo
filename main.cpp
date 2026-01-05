@@ -8,6 +8,7 @@ int main()
 {
     display();
     display2();
+    ikhwan();
 
     return 0;
 }
